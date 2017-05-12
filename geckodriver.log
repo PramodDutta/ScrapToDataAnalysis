@@ -1,0 +1,10 @@
+1494614973756	geckodriver	INFO	Listening on 127.0.0.1:51448
+1494615000268	geckodriver	INFO	Listening on 127.0.0.1:51568
+1494615001384	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1494615002472	Marionette	INFO	Listening on port 51581
+1494615216817	geckodriver	INFO	Listening on 127.0.0.1:52515
+1494615217932	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1494615219044	Marionette	INFO	Listening on port 52528
+1494615364152	geckodriver	INFO	Listening on 127.0.0.1:53290
+1494615365280	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1494615366413	Marionette	INFO	Listening on port 53303
